@@ -24,8 +24,8 @@ def sentiment_analysis():
     review = data['review']
     
     # Load the saved model and vectorizer
-    best_model = joblib.load('/best_model.pkl')
-    vectorizer = joblib.load('/vectorizer.pkl')
+    best_model = joblib.load('best_model.pkl')
+    vectorizer = joblib.load('vectorizer.pkl')
 
     cleaned_review = preprocess_text(review)
     review_vectorized = vectorizer.transform([cleaned_review])
