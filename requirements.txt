@@ -5,5 +5,4 @@ numpy
 pandas
 gunicorn
 scikit-learn
-pip install --upgrade pip
 scipy
