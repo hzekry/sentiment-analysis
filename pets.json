@@ -1,0 +1,228 @@
+[
+    {
+      "customer_id": null,
+      "name": "Samantha",
+      "species": "Dog",
+      "breed": "Golden Retriever",
+      "age": "4 years",
+      "gender": "Female"
+    },
+    {
+      "customer_id": null,
+      "name": "Oliver",
+      "species": "Cat",
+      "breed": "Siamese",
+      "age": "2 years",
+      "gender": "Male"
+    },
+    {
+      "customer_id": null,
+      "name": "Buddy",
+      "species": "Dog",
+      "breed": "German Shepherd",
+      "age": "6 years",
+      "gender": "Male"
+    },
+    {
+      "customer_id": null,
+      "name": "Tiger",
+      "species": "Cat",
+      "breed": "Bengal",
+      "age": "1 year",
+      "gender": "Male"
+    },
+    {
+      "customer_id": null,
+      "name": "Molly",
+      "species": "Dog",
+      "breed": "Labrador Retriever",
+      "age": "3 years",
+      "gender": "Female"
+    },
+    {
+      "customer_id": null,
+      "name": "Lucy",
+      "species": "Cat",
+      "breed": "Persian",
+      "age": "4 years",
+      "gender": "Female"
+    },
+    {
+      "customer_id": null,
+      "name": "Charlie",
+      "species": "Dog",
+      "breed": "Poodle",
+      "age": "5 years",
+      "gender": "Male"
+    },
+    {
+      "customer_id": null,
+      "name": "Lola",
+      "species": "Dog",
+      "breed": "Chihuahua",
+      "age": "2 years",
+      "gender": "Female"
+    },
+    {
+      "customer_id": null,
+      "name": "Simba",
+      "species": "Cat",
+      "breed": "Maine Coon",
+      "age": "3 years",
+      "gender": "Male"
+    },
+    {
+      "customer_id": null,
+      "name": "Rocky",
+      "species": "Dog",
+      "breed": "Bulldog",
+      "age": "7 years",
+      "gender": "Male"
+    },
+    {
+        "customer_id": "",
+        "name": "Max",
+        "species": "Dog",
+        "breed": "Labrador Retriever",
+        "age": "2 years",
+        "gender": "Male"
+      },
+      {
+        "customer_id": "",
+        "name": "Simba",
+        "species": "Cat",
+        "breed": "Siamese",
+        "age": "3 years",
+        "gender": "Male"
+      },
+      {
+        "customer_id": "",
+        "name": "Buddy",
+        "species": "Dog",
+        "breed": "Golden Retriever",
+        "age": "4 years",
+        "gender": "Male"
+      },
+      {
+        "customer_id": "",
+        "name": "Luna",
+        "species": "Cat",
+        "breed": "Persian",
+        "age": "2 years",
+        "gender": "Female"
+      },
+      {
+        "customer_id": "",
+        "name": "Charlie",
+        "species": "Dog",
+        "breed": "Poodle",
+        "age": "1 year",
+        "gender": "Male"
+      },
+      {
+        "customer_id": "",
+        "name": "Toby",
+        "species": "Dog",
+        "breed": "Beagle",
+        "age": "3 years",
+        "gender": "Male"
+      },
+      {
+        "customer_id": "",
+        "name": "Molly",
+        "species": "Cat",
+        "breed": "British Shorthair",
+        "age": "4 years",
+        "gender": "Female"
+      },
+      {
+        "customer_id": "",
+        "name": "Rocky",
+        "species": "Dog",
+        "breed": "Boxer",
+        "age": "2 years",
+        "gender": "Male"
+      },
+      {
+        "customer_id": "",
+        "name": "Misty",
+        "species": "Cat",
+        "breed": "Russian Blue",
+        "age": "1 year",
+        "gender": "Female"
+      },
+      {
+        "customer_id": "",
+        "name": "Duke",
+        "species": "Dog",
+        "breed": "German Shepherd",
+        "age": "5 years",
+        "gender": "Male"
+      },
+      {
+        "customer_id": null,
+        "name": "Polly",
+        "species": "Parrot",
+        "breed": "African Grey",
+        "age": "2 years",
+        "gender": "Female"
+      },
+      {
+        "customer_id": null,
+        "name": "Mittens",
+        "species": "Rabbit",
+        "breed": "Dutch",
+        "age": "6 months",
+        "gender": "Male"
+      },
+      {
+        "customer_id": null,
+        "name": "Nemo",
+        "species": "Fish",
+        "breed": "Clownfish",
+        "age": "1 year",
+        "gender": "Male"
+      },
+      {
+        "customer_id": null,
+        "name": "Felix",
+        "species": "Hamster",
+        "breed": "Syrian",
+        "age": "8 months",
+        "gender": "Male"
+      },
+      {
+        "customer_id": null,
+        "name": "Jasper",
+        "species": "Guinea Pig",
+        "breed": "American",
+        "age": "1 year",
+        "gender": "Male"
+      },
+      {
+        "customer_id": null,
+        "name": "Milo",
+        "species": "Snake",
+        "breed": "Corn Snake",
+        "age": "3 years",
+        "gender": "Male"
+      },
+      {
+        "customer_id": null,
+        "name": "Muffin",
+        "species": "Ferret",
+        "breed": "Sable",
+        "age": "1 year",
+        "gender": "Female"
+      },
+      {
+        "customer_id": null,
+        "name": "Gatsby",
+        "species": "Hedgehog",
+        "breed": "African Pygmy",
+        "age": "1 year",
+        "gender": "Male"
+      }
+     
+  ]
+  

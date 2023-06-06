@@ -1,0 +1,216 @@
+[{
+    "type": "Fever",
+    "description": "Examined the pet and identified a fever. Prescribed medication and advised on rest.",
+    "results": "The pet's fever improved after treatment, and the owner was advised to monitor for any recurrence.",
+    "next_visit": "2023-06-01",
+    "record_date": "2023-04-01"
+  },
+  
+  {
+    "type": "Injury",
+    "description": "Examined the pet and identified an injury. Prescribed medication and advised on rest.",
+    "results": "The pet's injury healed after treatment, and the owner was advised to monitor for any recurrence.",
+    "next_visit": "",
+    "record_date": "2023-04-02"
+  },
+  
+  {
+    "type": "Dental cleaning",
+    "description": "Performed dental cleaning on the pet and advised on dental care.",
+    "results": "The pet's teeth were cleaned and the owner was advised to follow dental care guidelines.",
+    "next_visit": "2024-04-01",
+    "record_date": "2023-04-03"
+  },
+  
+  {
+    "type": "Vomiting",
+    "description": "Examined the pet and identified vomiting. Prescribed medication and advised on rest and dietary changes.",
+    "results": "The pet's vomiting improved after treatment, and the owner was advised to monitor for any recurrence and follow the dietary guidelines.",
+    "next_visit": "",
+    "record_date": "2023-04-04"
+  },
+  
+  {
+    "type": "Annual check-up",
+    "description": "Conducted an annual check-up on the pet and provided routine vaccinations.",
+    "results": "The pet received the necessary vaccinations and was in good health.",
+    "next_visit": "2024-04-01",
+    "record_date": "2023-04-05"
+  },
+  
+  {
+    "type": "Skin infection",
+    "description": "Examined the pet and identified a skin infection. Prescribed medication and advised on proper application.",
+    "results": "The pet's skin infection cleared up after treatment, and the owner was advised to monitor for any recurrence.",
+    "next_visit": "",
+    "record_date": "2023-04-06"
+  },
+  
+  {
+    "type": "Ear infection",
+    "description": "Examined the pet and identified an ear infection. Prescribed medication and advised on proper application.",
+    "results": "The pet's ear infection cleared up after treatment, and the owner was advised to monitor for any recurrence.",
+    "next_visit": "",
+    "record_date": "2023-04-07"
+  },
+  
+  {
+    "type": "Diabetes",
+    "description": "Examined the pet and identified diabetes. Prescribed medication and advised on dietary changes.",
+    "results": "The pet's diabetes was under control after treatment, and the owner was advised to monitor blood sugar levels and follow the dietary guidelines.",
+    "next_visit": "",
+    "record_date": "2023-04-08"
+  },
+  
+  {
+    "type": "Allergy",
+    "description": "Examined the pet and identified an allergy. Prescribed medication and advised on dietary changes.",
+    "results": "The pet's allergy symptoms improved after treatment, and the owner was advised to monitor for any recurrence and follow the dietary guidelines.",
+    "next_visit": "",
+    "record_date": "2023-04-09"
+  },
+  
+  {
+    "type": "Eye infection",
+    "description": "Examined the pet and identified an eye infection.",
+    "results" : "The pet's eye infection cleared up after treatment, and the owner was advised to monitor for any recurrence and keep the eyes clean.",
+        "next_visit": "",
+        "record_date": "2023-04-10"
+      },
+      {
+        "type": "Gastrointestinal upset",
+        "description": "Examined the pet and identified gastrointestinal upset. Prescribed medication and advised on dietary changes.",
+        "results": "The pet's gastrointestinal symptoms improved after treatment, and the owner was advised to monitor for any recurrence and follow the dietary guidelines.",
+        "next_visit": "",
+        "record_date": "2023-04-11"
+      },
+      {
+        "type": "Broken limb",
+        "description": "Examined the pet and identified a broken limb. Administered pain relief and set the limb in a cast.",
+        "results": "The pet's broken limb healed properly after treatment, and the owner was advised to monitor for any recurrence and follow the post-surgery care instructions.",
+        "next_visit": "",
+        "record_date": "2023-04-12"
+      },
+      {
+        "type": "Urinary tract infection",
+        "description": "Examined the pet and identified a urinary tract infection. Prescribed medication and advised on dietary changes.",
+        "results": "The pet's urinary tract infection cleared up after treatment, and the owner was advised to monitor for any recurrence and follow the dietary guidelines.",
+        "next_visit": "",
+        "record_date": "2023-04-13"
+      },
+      {
+        "type": "Lethargy",
+        "description": "Examined the pet and identified lethargy. Conducted blood tests and prescribed medication.",
+        "results": "The pet's energy levels improved after treatment, and the owner was advised to monitor for any recurrence and follow the medication guidelines.",
+        "next_visit": "",
+        "record_date": "2023-04-14"
+      },
+      {
+        "type": "Fleas",
+        "description": "Examined the pet and identified fleas. Prescribed medication and advised on flea prevention measures.",
+        "results": "The pet's flea infestation was under control after treatment, and the owner was advised to follow the flea prevention measures.",
+        "next_visit": "",
+        "record_date": "2023-04-15"
+      },
+      {
+        "type": "Behavioral issues",
+        "description": "Examined the pet and identified behavioral issues. Recommended behavior modification techniques and prescribed medication.",
+        "results": "The pet's behavior improved after treatment, and the owner was advised to continue behavior modification techniques and follow the medication guidelines.",
+        "next_visit": "",
+        "record_date": "2023-04-16"
+      },
+      {
+        "type": "Weight loss",
+        "description": "Examined the pet and identified weight loss. Conducted blood tests and prescribed dietary changes.",
+        "results": "The pet's weight increased after treatment, and the owner was advised to monitor the pet's weight and follow the dietary guidelines.",
+        "next_visit": "",
+        "record_date": "2023-04-17"
+      },
+      {
+        "type": "Vaccination",
+        "description": "Administered routine vaccinations to the pet.",
+        "results": "The pet received the necessary vaccinations and was in good health.",
+        "next_visit": "2024-04-17",
+        "record_date": "2023-04-18"
+      },
+      {
+        "type": "Limping",
+        "description": "Examined the pet and identified limping. Conducted X-rays and prescribed medication.",
+        "results": "The pet's limping improved after treatment, and the owner was advised to monitor for anyrecurrence and follow the medication guidelines.",
+    "next_visit": "",
+    "record_date": "2023-04-19"
+    },
+    
+    {
+    "type": "Skin irritation",
+    "description": "Examined the pet and identified skin irritation. Prescribed medication and advised on grooming practices.",
+    "results": "The pet's skin irritation cleared up after treatment, and the owner was advised to follow the grooming practices.",
+    "next_visit": "",
+    "record_date": "2023-04-20"
+    },
+    
+    {
+    "type": "Ear infection",
+    "description": "Examined the pet and identified an ear infection. Prescribed medication and advised on ear cleaning practices.",
+    "results": "The pet's ear infection cleared up after treatment, and the owner was advised to follow the ear cleaning practices.",
+    "next_visit": "",
+    "record_date": "2023-04-21"
+    },
+    
+    {
+    "type": "Dental cleaning",
+    "description": "Examined the pet and identified the need for dental cleaning. Administered anesthesia and performed dental cleaning.",
+    "results": "The pet's teeth were cleaned properly and no dental issues were identified. The owner was advised to follow dental hygiene practices.",
+    "next_visit": "2024-04-21",
+    "record_date": "2023-04-22"
+    },
+    
+    {
+    "type": "Allergies",
+    "description": "Examined the pet and identified allergies. Conducted allergy testing and prescribed medication.",
+    "results": "The pet's allergies improved after treatment, and the owner was advised to monitor for any recurrence and follow the medication guidelines.",
+    "next_visit": "",
+    "record_date": "2023-04-23"
+    },
+    
+    {
+    "type": "Eye infection",
+    "description": "Examined the pet and identified an eye infection. Prescribed medication and advised on eye cleaning practices.",
+    "results": "The pet's eye infection cleared up after treatment, and the owner was advised to follow the eye cleaning practices.",
+    "next_visit": "",
+    "record_date": "2023-04-24"
+    },
+    
+    {
+    "type": "Gastrointestinal issues",
+    "description": "Examined the pet and identified gastrointestinal issues. Conducted blood tests and prescribed medication.",
+    "results": "The pet's gastrointestinal issues improved after treatment, and the owner was advised to monitor for any recurrence and follow the medication guidelines.",
+    "next_visit": "",
+    "record_date": "2023-04-25"
+    },
+    
+    {
+    "type": "Injury",
+    "description": "Examined the pet and identified an injury. Conducted X-rays and prescribed pain relief medication.",
+    "results": "The pet's injury improved after treatment, and the owner was advised to monitor for any recurrence and follow the medication guidelines.",
+    "next_visit": "",
+    "record_date": "2023-04-26"
+    },
+    
+    {
+    "type": "Routine check-up",
+    "description": "Examined the pet and conducted routine tests to ensure good health.",
+    "results": "The pet was in good health, and the owner was advised to schedule regular check-ups.",
+    "next_visit": "2024-04-26",
+    "record_date": "2023-04-27"
+    },
+    
+    {
+    "type": "Digestive issues",
+    "description": "Examined the pet and identified digestive issues. Conducted blood tests and prescribed dietary changes.",
+    "results": "The pet's digestive issues improved after treatment, and the owner was advised to monitor for any recurrence and follow the dietary guidelines.",
+    "next_visit": "",
+    "record_date": "2023-04-28"
+    }
+  ]
+  

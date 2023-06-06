@@ -1,0 +1,145 @@
+[
+   
+        {
+          "name": "Emily Kim",
+          "email": "emily.kim@gmail.com",
+          "phone_number": "(847) 555-4567",
+          "country": "USA",
+          "state": "IL"
+        },
+        {
+          "name": "John Smith",
+          "email": "john.smith@yahoo.com",
+          "phone_number": "(214) 555-7890",
+          "country": "USA",
+          "state": "TX"
+        },
+        {
+          "name": "Robert Thompson",
+          "email": "robert_thompson@gmail.com",
+          "phone_number": "555-123-4567",
+          "country": "USA",
+          "state": "CA"
+        },
+        {
+          "name": "Jennifer Brown",
+          "email": "jennifer_brown@yahoo.com",
+          "phone_number": "555-987-6543",
+          "country": "USA",
+          "state": "TX"
+        },
+        {
+          "name": "Michael Lee",
+          "email": "michael_lee@hotmail.com",
+          "phone_number": "555-555-5555",
+          "country": "USA",
+          "state": "NY"
+        },
+        {
+          "name": "Emily Davis",
+          "email": "emily_davis@outlook.com",
+          "phone_number": "555-111-2222",
+          "country": "USA",
+          "state": "FL"
+        },
+        {
+          "name": "William Perez",
+          "email": "william_perez@gmail.com",
+          "phone_number": "555-777-8888",
+          "country": "USA",
+          "state": "GA"
+        },
+        {
+          "name": "Jessica Nguyen",
+          "email": "jessica_nguyen@yahoo.com",
+          "phone_number": "555-333-4444",
+          "country": "USA",
+          "state": "IL"
+        },
+        {
+          "name": "David Johnson",
+          "email": "david_johnson@hotmail.com",
+          "phone_number": "555-444-5555",
+          "country": "USA",
+          "state": "PA"
+        },
+        {
+          "name": "Amanda Smith",
+          "email": "amanda_smith@msn.com",
+          "phone_number": "555-222-3333",
+          "country": "USA",
+          "state": "AZ"
+        },
+        {
+          "name": "Christopher Martin",
+          "email": "christopher_martin@gmail.com",
+          "phone_number": "555-666-7777",
+          "country": "USA",
+          "state": "OH"
+        },
+        {
+          "name": "Stephanie Kim",
+          "email": "stephanie_kim@yahoo.com",
+          "phone_number": "555-888-9999",
+          "country": "USA",
+          "state": "WA"
+        },
+            {
+              "name": "Elizabeth Greene",
+              "email": "elizabeth.greene@gmail.com",
+              "phone_number": "(512) 555-1234",
+              "country": "USA",
+              "state": "TX"
+            },
+            {
+              "name": "Joshua Bennett",
+              "email": "j.bennett@yahoo.com",
+              "phone_number": "(310) 555-5678",
+              "country": "USA",
+              "state": "CA"
+            },
+            {
+              "name": "Karen Lee",
+              "email": "karen.lee@hotmail.com",
+              "phone_number": "(917) 555-9012",
+              "country": "USA",
+              "state": "NY"
+            },
+            {
+              "name": "David Anderson",
+              "email": "david.anderson@gmail.com",
+              "phone_number": "(713) 555-3456",
+              "country": "USA",
+              "state": "TX"
+            },
+            {
+              "name": "Maria Hernandez",
+              "email": "m.hernandez@yahoo.com",
+              "phone_number": "(305) 555-7890",
+              "country": "USA",
+              "state": "FL"
+            },
+            {
+              "name": "Michael Nguyen",
+              "email": "michael.nguyen@gmail.com",
+              "phone_number": "(408) 555-2345",
+              "country": "USA",
+              "state": "CA"
+            },
+            {
+              "name": "Julia Park",
+              "email": "julia.park@hotmail.com",
+              "phone_number": "(206) 555-6789",
+              "country": "USA",
+              "state": "WA"
+            },
+            {
+              "name": "Adam Patel",
+              "email": "adam.patel@yahoo.com",
+              "phone_number": "(732) 555-0123",
+              "country": "USA",
+              "state": "NJ"
+            }
+      
+  ]
+  
