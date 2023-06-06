@@ -5,4 +5,5 @@ numpy
 pandas
 gunicorn
 scikit-learn
-python3-scipy
+pip install --upgrade pip
+scipy
